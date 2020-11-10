@@ -12,6 +12,11 @@
 * Instale o gerenciador de dependência [**Boss**](https://github.com/HashLoad/boss)
 * Abra o terminal na pasta do projeto
 * Digite `boss install` para todas as dependências
+* Compile o projeto
+
+######  Documentação:
+* [**Documentação**](https://app.swaggerhub.com/apis-docs/w4ll/API_REST/1.0#/)
+Documentação feita com [**SwaggerHub**](https://app.swaggerhub.com/).
 
 ######  Embarcadero® Delphi 10.3.3 Community Edition:
 O projeto foi desenvolvido utilizando a IDE [**Embarcadero® Delphi 10.3.3 Community Edition**](https://www.embarcadero.com/br/products/delphi/starter/free-download) 
