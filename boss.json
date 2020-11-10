@@ -1,0 +1,15 @@
+{
+	"name": "desafio_totvs",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/horse": "^v2.0.3",
+		"https://github.com/hashload/horse-basic-auth": "^v1.1.2",
+		"https://github.com/hashload/jhonson": "^1.0.7",
+		"https://github.com/hashload/ugar": "^v0.0.6",
+		"https://github.com/viniciussanchez/dataset-serialize": "^v2.2.1"
+	}
+}
