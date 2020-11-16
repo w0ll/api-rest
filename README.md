@@ -15,7 +15,7 @@
 * Compile o projeto.
 
 ###### Documentação
-[**Documentação da API**](https://app.swaggerhub.com/apis-docs/w4ll/API_REST/1.0#/) feita com [**SwaggerHub**](https://app.swaggerhub.com/).
+[**Documentação da API**](https://app.swaggerhub.com/apis-docs/w4ll/API_REST/1) feita com [**SwaggerHub**](https://app.swaggerhub.com/).
 
 ###### Delphi 10.3.3 Community Edition
 O projeto foi desenvolvido utilizando a IDE [**Embarcadero® Delphi 10.3.3 Community Edition**](https://www.embarcadero.com/br/products/delphi/starter/free-download).
